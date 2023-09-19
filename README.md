@@ -4,7 +4,7 @@
 
 The executable should be ready to go, just run ```./constructor```
 
-If not working, run the make file with ```make``` on GNU or ```mingw32-make``` on MingW compilers.
+If not working, run the make file with ```make``` on GNU or ```mingw32-make``` on MingW compilers before calling the above.
 
 
 ## Rules of the game
